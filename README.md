@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vedangpaithankar" alt="vedangpaithankar" /></a> </p>
 
-- 🌱 I’m currently learning **Android Development- Flutter, Dart, Kotlin**
+- 🌱 I’m currently learning **Web Development**
 
 - 💬 Ask me about **Video Editing, Graphic Designing**
 
