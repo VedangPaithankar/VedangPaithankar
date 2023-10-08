@@ -1,6 +1,6 @@
 <img align="center" src="./Component 1 – 1.png" alt="vedang_1122" width="auto" height="auto"/>
 
-<p align="center">
+<p align="center" width="auto" height="auto">
   <a href="https://github.com/ryo-ma/github-profile-trophy?theme=darkhub">
     <img src="https://github-profile-trophy.vercel.app/?username=vedangpaithankar&theme=darkhub&column=7" alt="vedangpaithankar" />
   </a>
