@@ -1,4 +1,4 @@
-<img align="center" src="./Component 1 – 1.png" alt="vedang_1122" height="30" width="40" />
+<img align="center" src="./Component 1 – 1.png" alt="vedang_1122"/>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy?theme=darkhub">
