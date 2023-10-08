@@ -137,13 +137,6 @@
             <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
         </a>
     </p>
-
-<h2>Game Development</h2>
-    <p>
-        <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/>
-        </a>
-</p>
 </a>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedangpaithankar&show_icons=true&theme=dark&locale=en&layout=compact" alt="vedangpaithankar" width="auto" height="auto" /></p>
 
