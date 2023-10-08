@@ -145,8 +145,8 @@
         </a>
 </p>
 </a>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedangpaithankar&show_icons=true&theme=dark&locale=en&layout=compact" alt="vedangpaithankar" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedangpaithankar&show_icons=true&theme=dark&locale=en&layout=compact" alt="vedangpaithankar" width="auto" height="auto" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedangpaithankar&show_icons=true&theme=dark&locale=en" alt="vedangpaithankar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedangpaithankar&show_icons=true&theme=dark&locale=en" alt="vedangpaithankar" width="auto" height="auto"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedangpaithankar&theme=dark" alt="vedangpaithankar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedangpaithankar&theme=dark" alt="vedangpaithankar" width="auto" height="auto" /></p>
