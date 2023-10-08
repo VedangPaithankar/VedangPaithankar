@@ -27,7 +27,7 @@
 </p>
 
 <a align="center">
-<h1>Web Development</h1>
+<h2>Web Development</h2>
     <p>
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
@@ -52,7 +52,7 @@
         </a>
     </p>
 
-<h1>Data Science and Machine Learning</h1>
+<h2>Data Science and Machine Learning</h2>
     <p>
         <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
             <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
@@ -68,7 +68,7 @@
         </a>
     </p>
 
-<h1>Mobile App Development</h1>
+<h2>Mobile App Development</h2>
     <p>
         <a href="https://dart.dev" target="_blank" rel="noreferrer">
             <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
@@ -78,14 +78,14 @@
         </a>
     </p>
 
-<h1>Version Control</h1>
+<h2>Version Control</h2>
     <p>
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
             <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
         </a>
     </p>
 
-<h1>Design</h1>
+<h2>Design</h2>
     <p>
         <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
             <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
@@ -95,7 +95,7 @@
         </a>
     </p>
 
- <h1>Programming Languages</h1>
+ <h2>Programming Languages</h2>
     <p>
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -111,7 +111,7 @@
         </a>
     </p>
 
-<h1>Web Design and Graphics</h1>
+<h2>Web Design and Graphics</h2>
     <p>
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
             <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
@@ -121,7 +121,7 @@
         </a>
     </p>
 
-<h1>Data Storage</h1>
+<h2>Data Storage</h2>
     <p>
         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
@@ -131,14 +131,14 @@
         </a>
     </p>
 
-<h1>Machine Learning Frameworks</h1>
+<h2>Machine Learning Frameworks</h2>
     <p>
         <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
             <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
         </a>
     </p>
 
-<h1>Game Development</h1>
+<h2>Game Development</h2>
     <p>
         <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/>
