@@ -2,10 +2,11 @@
 <h3 align="center">Pursuing CSE Core | Web Developer | AI/ML Enthusiast</h3>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy?theme=darkhub">
-    <img src="https://github-profile-trophy.vercel.app/?username=vedangpaithankar&theme=darkhub" alt="vedangpaithankar" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy?theme=darkhub&no-frame=true">
+    <img src="https://github-profile-trophy.vercel.app/?username=vedangpaithankar&theme=darkhub&no-frame=true" alt="vedangpaithankar" />
   </a>
 </p>
+
 
 - 🔭 I’m currently working on **Personal Website**
 
