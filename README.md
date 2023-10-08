@@ -2,7 +2,7 @@
 
 <p align="center" width="auto" height="auto">
   <a href="https://github.com/ryo-ma/github-profile-trophy?theme=darkhub">
-    <img src="https://github-profile-trophy.vercel.app/?username=vedangpaithankar&theme=darkhub&column=7" alt="vedangpaithankar" />
+    <img src="https://github-profile-trophy.vercel.app/?username=vedangpaithankar&theme=darkhub&column=5" alt="vedangpaithankar" />
   </a>
 </p>
 
