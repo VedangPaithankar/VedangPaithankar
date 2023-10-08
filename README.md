@@ -5,7 +5,11 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy?theme=darkhub&no-frame=true">
     <img src="https://github-profile-trophy.vercel.app/?username=vedangpaithankar&theme=darkhub&no-frame=true" alt="vedangpaithankar" />
   </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vedangpaithankar&show_icons=true&theme=dark&locale=en&layout=compact" alt="vedangpaithankar" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vedangpaithankar&show_icons=true&theme=dark&locale=en" alt="vedangpaithankar" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedangpaithankar&theme=dark" alt="vedangpaithankar" />
 </p>
+
 
 
 - 🔭 I’m currently working on **Personal Website**
