@@ -1,7 +1,7 @@
 <h1 align="center">Hello Guy! 👋, I'm Vedang Paithankar</h1>
 <h3 align="center">Pursuing CSE Core | Web Developer | AI/ML Enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vedangpaithankar" alt="vedangpaithankar" /></a> </p>
+<p align="center" color="black"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vedangpaithankar" alt="vedangpaithankar" /></a> </p>
 
 - 🔭 I’m currently working on **Personal Website**
 
