@@ -26,6 +26,7 @@
 <a href="https://www.hackerearth.com/vedangpaithanka1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="vedangpaithanka1" height="30" width="40" /></a>
 </p>
 
+<a align="center">
 <h1>Web Development</h1>
     <p>
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -143,7 +144,7 @@
             <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/>
         </a>
 </p>
-
+</a>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedangpaithankar&show_icons=true&theme=dark&locale=en&layout=compact" alt="vedangpaithankar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedangpaithankar&show_icons=true&theme=dark&locale=en" alt="vedangpaithankar" /></p>
