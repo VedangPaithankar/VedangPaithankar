@@ -2,8 +2,7 @@
 
 <p align="center" width="auto" height="auto">
   <a href="https://github.com/ryo-ma/github-profile-trophy?theme=darkhub">
-    <!--<img src="https://github-profile-trophy.vercel.app/?username=vedangpaithankar&theme=darkhub&column=9" alt="vedangpaithankar" />-->
-    [![trophy](https://github-profile-trophy.vercel.app/?username=vedangpaithankar&theme=onedark)](https://github.com/vedangpaithankar/github-profile-trophy)
+    <img src="https://github-profile-trophy.vercel.app/?username=vedangpaithankar&theme=darkhub&column=9" alt="vedangpaithankar" />
   </a>
 </p>
 
