@@ -14,7 +14,7 @@
 
 - 📫 How to reach me [Mail ID](vedangpaithankar19@gmail.com)
 
-- 📄 Know about my experiences [Resume]([https://drive.google.com/drive/u/2/folders/1dQh7GsKCkZN8VH19Z6DWYVC2tJHsvBkW](https://drive.google.com/file/d/1v7OxxgDul2r4Mbwhe02gazySkjGCYSHy/view?usp=sharing))
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1v7OxxgDul2r4Mbwhe02gazySkjGCYSHy/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
