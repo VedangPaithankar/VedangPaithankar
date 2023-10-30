@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/VedangPaithankar/github-profile-trophy?theme=juicyfresh">
-    <img src="https://github-profile-trophy.vercel.app/?username=VedangPaithankar&theme=juicyfresh" alt="ryo-ma" />
+    <img src="https://github-profile-trophy.vercel.app/?username=VedangPaithankar&row=1&column=7&theme=juicyfresh" alt="ryo-ma" />
   </a>
 </p>
 
