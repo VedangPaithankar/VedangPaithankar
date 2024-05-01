@@ -27,7 +27,7 @@
 </p>
 
 <a align="center">
-<h2>Web Development</h2>
+<h2>Skills</h2>
     <p>
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
@@ -50,10 +50,6 @@
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
         </a>
-    </p>
-
-<h2>Data Science and Machine Learning</h2>
-    <p>
         <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
             <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
         </a>
@@ -66,37 +62,21 @@
         <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
             <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
         </a>
-    </p>
-
-<h2>Mobile App Development</h2>
-    <p>
         <a href="https://dart.dev" target="_blank" rel="noreferrer">
             <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
         </a>
         <a href="https://flutter.dev" target="_blank" rel="noreferrer">
             <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
         </a>
-    </p>
-
-<h2>Version Control</h2>
-    <p>
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
             <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
         </a>
-    </p>
-
-<h2>Design</h2>
-    <p>
         <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
             <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
         </a>
         <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
         </a>
-    </p>
-
- <h2>Programming Languages</h2>
-    <p>
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
         </a>
@@ -109,30 +89,18 @@
         <a href="https://www.python.org" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
         </a>
-    </p>
-
-<h2>Web Design and Graphics</h2>
-    <p>
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
             <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
         </a>
         <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
             <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
         </a>
-    </p>
-
-<h2>Data Storage</h2>
-    <p>
         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
         </a>
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
         </a>
-    </p>
-
-<h2>Machine Learning Frameworks</h2>
-    <p>
         <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
             <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
         </a>
