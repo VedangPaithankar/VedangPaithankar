@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vedang paithankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedang paithankar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vedang-paithankar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedang paithankar" height="30" width="40" /></a>
 <a href="https://instagram.com/vedang_1122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vedang_1122" height="30" width="40" /></a>
 <a href="https://www.behance.net/vedangpaithan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="vedangpaithan" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/vedangpaithanka1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@vedangpaithanka1" height="30" width="40" /></a>
